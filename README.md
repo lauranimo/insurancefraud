@@ -1,4 +1,4 @@
-**Created this repo easier sharing of this project**
+**Created this repo for easier sharing of this project**
 
 ## Problem and Dataset Description
 Problem: The total cost of insurance fraud is more than $40 billion per year (FBI). Consequently, it is imperative for insurance companies to develop methods to discern legitimate claims from fraudulent claims. Processing these claims by hand is wholly unsustainable. Insurance companies receive millions of claims a year, and to individually inspect each claim is unfeasible. Consequently, it becomes necessary to create a machine-learning model to classify claims into legitimate and fraudulent categories. The model would be scalable, efficient, and introduce less bias in determining what claims are fraudulent.
